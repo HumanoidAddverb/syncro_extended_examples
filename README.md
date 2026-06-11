@@ -13,7 +13,7 @@ Further more examples will be added to this repository
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/HumanoidAddverb/syncro_extended_examples
+    git clone https://github.com/HumanoidAddverb/syncro_extended_examples.git
     ```
 
 2. Copy the folder to the cobot PC's home directory
